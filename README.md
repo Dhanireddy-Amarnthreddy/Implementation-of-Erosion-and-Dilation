@@ -73,14 +73,14 @@ cv2.imshow("Dilated Image",dilationImage)
 ## Output:
 
 ### Display the input Image
-![](c1.png)
+![](d1.png)
 
 ### Display the Eroded Image
-![](c2.png)
+![](d2.png)
 
 
 ### Display the Dilated Image
-![](c3.png)
+![](d3.png)
 
 
 ## Result
